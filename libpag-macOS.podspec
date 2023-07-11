@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target   = '10.13'
   s.summary  = 'libpag SDK'
   s.homepage = 'https://github.com/libpag/libpag-ios'
-  s.source   = {:git => 'https://github.com/libpag/libpag-mac.git', :tag => s.version.to_s }
+  s.source   = {:git => 'https://github.com/libpag/pag-mac.git', :tag => s.version.to_s }
   s.license          = { :type => 'Apache License Version 2.0', :file => 'LICENSE' }
   s.author = {'libpag' => 'libpag@tencent.com'}
   s.osx.frameworks = ['ApplicationServices', 'AGL', 'OpenGL', 'QuartzCore', 'Cocoa', 'Foundation', 'VideoToolbox', 'CoreMedia']
