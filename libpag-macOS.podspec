@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name     = 'libpag'
+  s.name     = 'libpag-macOS'
   s.version  = '1.2.165'
   s.osx.deployment_target   = '10.13'
   s.summary  = 'libpag SDK'
