@@ -1,0 +1,22 @@
+PODS:
+  - libpag (1.2.165)
+
+DEPENDENCIES:
+  - libpag (from `https://github.com/libpag/pag-mac.git`, tag `0.1.1`)
+
+EXTERNAL SOURCES:
+  libpag:
+    :git: https://github.com/libpag/pag-mac.git
+    :tag: 0.1.1
+
+CHECKOUT OPTIONS:
+  libpag:
+    :git: https://github.com/libpag/pag-mac.git
+    :tag: 0.1.1
+
+SPEC CHECKSUMS:
+  libpag: 36a61ee4d01f3037def7cf7882025ee8899143e2
+
+PODFILE CHECKSUM: 2676dcd52f91eca7e6b34de5b3f4d2c994167a9f
+
+COCOAPODS: 1.12.1
