@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		UNaibRh/Eidvu+TWzEBnH3o7uwM=
+		b/Xj1EzW/vRLtQ+uW0VYvztPdQ4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -169,14 +169,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RfoGWlbxNIep45TdJRS9KFdDBljg1zo+dYopp/8L/yE=
+			CLQUrrgOYkcz0qpQAqJwUVfsiGyYR7hV0sa6DipUmdU=
 			</data>
 		</dict>
 		<key>Headers/pag/c/ext/pag_surface_ext.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			biwVj12Led2KUzKg+6xi/dioWTaUsO7LKhy+s4Ib6SE=
+			qmVbbfF17V7sGbNd7bVnoD6yAgvW5Z8HyNX7lbeTJfk=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag.h</key>
@@ -190,119 +190,119 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lHkLe39PIpSWBU7X5EoLRwItR0Y/tHm7KYlEprkeDTA=
+			fk9+jYBXfga84G7VYcbIfUI963EO7cJJOqZ/wjHrylY=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_backend_semaphore.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ukZypohjm0vIu0zX/z3vphZ+2yBYB4+DYCRRYDRROCo=
+			tBPhwpSW529MmZUknfKSwdrUDGbjpqXbdujMoZs1Iic=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_backend_texture.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N1eWyrcnRsAU6600fi/QT1DvQShFOQScf8yXlwr6UDo=
+			hrSyvwFLqQ4RFsi/4H0IuW6dIkTlJk+2+LVNz825xds=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_byte_data.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oDey43WS/pqSsk25y4ojvY6YnpkIeD6ZPLR00ry/Gu4=
+			0O01AsciKYyNoCJ749FmIKCYMrnXHb537EJ5OAKMaPI=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_composition.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v+OsHsJcPzCdkcMQWKHjkW5hJMTXdSOuZr6km0cKeBU=
+			dbZMIfZD5zHACiNQt3o1NCmtZ8kjBMR+Zi4QG23NDOE=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_decoder.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zo61cgGdYHu5UdkEHs/fCV52r7+fyFLWytAftyyg5VE=
+			9AVENJTymgIQ46UxmUeBT+j8jizs0RCPO3eoAwJyHos=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_disk_cache.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			54BIZAaawgLOsk5Vd0rp1jmUTgzBl88O7MYCN1Pd5SI=
+			BpIMwoJ8b2fcpdQZTbUIm9S/YtvqBYACHVZIG+m0DpI=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_file.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g9mRz+rkOklF29aWwtYtsr+/lD9q5A6u+biRe5yBl54=
+			MS1RE4U9brm7ZULimpj8DN2gW1o+qgdbywEV0iPxR/o=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_font.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ej1yadv15XJkirUiz8rZ6LkRHZgYQygY/yVQ/ym9zQ8=
+			ddhpCebvFlJKfcXlw0khOjojh+QG07f08EULlW9iq/k=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_image.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y4/2wHSWJX6fV/1zzWeQdCpq6UbtWojuG/T+7XFkXNw=
+			jeWdxY/NRDVqA1MWvWtLFoRYbqwGRvPjUVp8yPQ8H4M=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_image_layer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ca0wHLFtOYipZV2PY+XpdQvLSKszbUUenODdO+UA0fU=
+			96IWdMejg6m0N87F70cDOzkgc/XnId/qhGEgdJSsjvE=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_layer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PNrhQYZotqELfuaQ8qSOPQhWAPJiC4vmKgQkY/AgjPs=
+			k99txYrZb6scWXTkhE20Lc7B8wF2Gm/C5emr4mv7y8g=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_player.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZHl6zzr5e6/OBWYidF0OW9XMOih/JJ/YHYlLXZKnJX8=
+			POCZzgcZ38yG6RuSZbPrGKD57N5z044QZc9vQGZKHYk=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_solid_layer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gX/SGexbnSJZ8FXwyVlPIx1m46jr4qp/mmSQjpfJmus=
+			/kvX3nSj83dW79VMhOsgBjcAPolOl/6i2r21L7xfYdY=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_surface.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AEZ6wLt59zINuo18TVAgzxeevaRKfl9yYgn1knhW9fI=
+			yAWmuJodrcVlRRysA9TnBunh3Lo9NTO+L77VnFCyhO8=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_text_document.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bs8PHv/MQ1+q5K6N0PTSsqlG7F3UhJQdAlOUVoiKaHE=
+			4wj4XgunhNfUZUaVNWKeOuYK9xJHLlCLAgT93b5rSHE=
 			</data>
 		</dict>
 		<key>Headers/pag/c/pag_types.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QcZdXQ9i7fQSDTcc+CICNSEOjulUDu6GMXylKObA62M=
+			y/qDnX1Ye1q6O8TUBBdnWkx40AdZ1QbsOqXGQMmLT3g=
 			</data>
 		</dict>
 		<key>Headers/pag/decoder.h</key>
@@ -323,7 +323,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+dMd9ESwKCrOjzhMKWQehw2vw0NCc7zvmempHwqAXOA=
+			IF/mR8fjBLXnNYw7y+drdM9SzM/kesNrLHumQL05RS4=
 			</data>
 		</dict>
 		<key>Headers/pag/gpu.h</key>
@@ -337,7 +337,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kLSR7aZCI2OrgwgDCxQIfNQyEsxhTm0lsNBguB8EQUQ=
+			se3dV1y+vkGEehkmoD/Iw1/6po9Np30kC9L09xt4O5g=
 			</data>
 		</dict>
 		<key>Headers/pag/types.h</key>
@@ -347,11 +347,18 @@
 			2KnRnVwb0lWhslBpybu5FO1Gq8kgnhBGFyxrrDGz6ig=
 			</data>
 		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pG4CkCL18MNk7fJz/n3J/ehmcSn2u/nsYnE2VSmF1NQ=
+			</data>
+		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PBTT0YhBJMGfm1RWW0sFuM0ve/AFIOiyqTV3ys4wVWo=
+			76/6GV7KKzRSbxMygGyZ4HPfoZKVjogfM/ZKOUHD9HI=
 			</data>
 		</dict>
 	</dict>
