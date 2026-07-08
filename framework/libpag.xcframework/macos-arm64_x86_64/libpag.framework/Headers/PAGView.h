@@ -2,7 +2,7 @@
 //
 //  Tencent is pleased to support the open source community by making libpag available.
 //
-//  Copyright (C) 2021 Tencent. All rights reserved.
+//  Copyright (C) 2021 THL A29 Limited, a Tencent company. All rights reserved.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file
 //  except in compliance with the License. You may obtain a copy of the License at
@@ -25,30 +25,28 @@
 
 @optional
 /**
- * Notifies the beginning of the animation. It can be called from either the UI thread or the thread
- * that calls the play method.
+ * Notifies the beginning of the animation. This will only be called from the UI thread.
  */
 - (void)onAnimationStart:(PAGView*)pagView;
 
 /**
- * Notifies the end of the animation. It can only be called from the UI thread.
+ * Notifies the end of the animation. This will only be called from the UI thread.
  */
 - (void)onAnimationEnd:(PAGView*)pagView;
 
 /**
- * Notifies the cancellation of the animation. It can be called from either the UI thread or the
- * thread that calls the stop method.
+ * Notifies the cancellation of the animation. This will only be called from the UI thread.
  */
 - (void)onAnimationCancel:(PAGView*)pagView;
 
 /**
- * Notifies the repetition of the animation. It can only be called from the UI thread.
+ * Notifies the repetition of the animation. This will only be called from the UI thread.
  */
 - (void)onAnimationRepeat:(PAGView*)pagView;
 
 /**
- * Notifies another frame of the animation has occurred. It may be called from an arbitrary
- * thread if the animation is running asynchronously.
+ * Notifies another frame of the animation has occurred. This will only be called from the UI
+ * thread.
  */
 - (void)onAnimationUpdate:(PAGView*)pagView;
 
